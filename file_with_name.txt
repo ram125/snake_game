@@ -1,0 +1,2 @@
+gamer.txt,test.txt
+border_color,cells_size,distancion,speed,body_color,body_lenght,SpawnpointX,SpawnpointY

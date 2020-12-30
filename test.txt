@@ -1,0 +1,9 @@
+10,17,10,11,20,21,20,23,0,40,0,1,35,36,21,47
+border_color=green
+cells_size=12
+distancion=8
+speed=0.125
+body_color=orange
+body_lenght=12
+SpawnpointX=25
+SpawnpointY=12
